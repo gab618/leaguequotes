@@ -26,9 +26,18 @@ body, input, button {
   flex-direction: row;
   align-items: flex-start;
 }
+.LeftSide {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  width: 85%;
+}
+
+.RightSide {
+  width: 15%;
+}
 
 .Quote {
-  width: 85%;
   font-size: 11.5pt;
   font-style: italic;
 }
@@ -37,10 +46,11 @@ body, input, button {
 }
 
 .twitter-share-button {
-  width: 15%;
   text-align: end;
   font-size: 8pt;
   color: #00aced;
-  justify-content: center;
-  align-items: center;
+}
+
+.NextButton:hover {
+  cursor: pointer;
 }

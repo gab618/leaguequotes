@@ -16,7 +16,7 @@ export const quoteList = [
     {
       champion: "Akali",
       quote: [
-        ""
+        "Falou"
       ],
     },
     {
@@ -47,13 +47,6 @@ export const quoteList = [
       ],
     },
     {
-      champion: "Brand",
-      quote: [
-        ""
-      ],
-    },
-
-    {
       champion: "Braum",
       quote: [
         "O coração é o músculo mais forte",
@@ -63,7 +56,8 @@ export const quoteList = [
     {
       champion: "Caitlyn",
       quote: [
-        ""
+        "Eu cuido do caso",
+        "Procure não ficar muito tempo parado"
       ],
     },
     {
@@ -233,6 +227,12 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Kayle Asas Etéreas",
+      quote: [
+        "Bandido bom é bandido morto"
+      ],
+    },
+    {
       champion: "Kindred",
       quote: [
         "O amanhã é uma esperança, nunca uma promessa",
@@ -272,6 +272,12 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Mordekaise",
+      quote: [
+        "A miséria ama companhia"
+      ],
+    },
+    {
       champion: "Morgana",
       quote: [
         "A justiça é uma mentira dos poderosos",
@@ -300,7 +306,7 @@ export const quoteList = [
       ],
     },
     {
-      champion: "Neeoko",
+      champion: "Neeko",
       quote: [
         "Neeko não é tomatinho triste, neeko é tomatinho fortona!"
       ],
@@ -482,6 +488,12 @@ export const quoteList = [
       quote: [
         "A lâmina que não se vê é a mais mortífera",
         "Ignorância é fatal"
+      ],
+    },
+    {
+      champion: "Zyra",
+      quote: [
+        "Nossas estações estão trocadas, minha primavera, é o seu inferno"
       ],
     },
 
