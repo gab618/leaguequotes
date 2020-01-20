@@ -22,6 +22,7 @@ function App() {
       <a className="twitter-share-button"
           href={`https://twitter.com/intent/tweet?text="${quote.quote}" - ${quote.author}`}
           target="_blank"
+          rel="noopener noreferrer"
       >
     Tweet</a>
     </div>
