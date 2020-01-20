@@ -3,7 +3,8 @@ export const quoteList = [
       champion: "Aatrox",
       quote: [
         "Paz, é a maior das mentiras",
-        "A dor é temporária, a vitória é eterna"
+        "A dor é temporária, a vitória é eterna",
+        "Eu nao sou seu inimigo, eu sou O inimigo"
       ],
     },
     {
@@ -21,19 +22,28 @@ export const quoteList = [
     {
       champion: "Alistar",
       quote: [
-        ""
+        "Quem você chamou de Chifrudo?"
       ],
     },
     {
       champion: "Amumu",
       quote: [
-        ""
+        "Posso te dar um abraço?"
+      ],
+    },
+    {
+      champion: "Annie",
+      quote: [
+        "Eu nunca brinco com fósforos"
       ],
     },
     {
       champion: "Aurelion Sol",
       quote: [
-        ""
+        "Criatura enfadonha",
+        "Parabéns. Você mereceu o meu desprezo.",
+        "As estrelas choram por você. Ahaha, mentira. Eu nem me lembro do seu nome.",
+        "O amor é uma força tão real quanto a gravidade, experimente de vez em quando"
       ],
     },
     {
@@ -60,7 +70,8 @@ export const quoteList = [
       champion: "Camille",
       quote: [
         "A palavra certa corta mais profundamente que uma faca",
-        "Nana neném, eu vim pra te matar..."
+        "Nana neném, eu vim pra te matar...",
+        "Precisão é a diferença entre um açougueiro e um cirurgião"
 
       ],
     },
@@ -82,9 +93,21 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Dr. Mundo",
+      quote: [
+        "Mundo achar você frutinha"
+      ],
+    },
+    {
       champion: "Ekko",
       quote: [
-        "O lançe não é quanto tempo você tem, mas como você usa"
+        "O lance não é quanto tempo você tem, mas como você usa"
+      ],
+    },
+    {
+      champion: "Evelynn",
+      quote: [
+        "Uma vez um homem me pediu pra eu me vestir direito... Aí eu vesti a pele dele"
       ],
     },
     {
@@ -92,7 +115,19 @@ export const quoteList = [
       quote: [
         "Quem precisa de mapas?",
         "Seu lugar é no museu",
-
+        "Existem muitos grandes magos por ai, mas nenhum é tão gostoso"
+      ],
+    },
+    {
+      champion: "Fiddlesticks",
+      quote: [
+        "Eu não tenho cérebro, e logo você também não terá",
+      ],
+    },
+    {
+      champion: "Fizz",
+      quote: [
+        "Vou num mergulho e volto no outro",
       ],
     },
     {
@@ -106,6 +141,31 @@ export const quoteList = [
       quote: [
         "Calma, amigo",
         "Foi só um tirinho de leve"
+      ],
+    },
+    {
+      champion: "Irelia",
+      quote: [
+        "Ah elegancia curva, a força quebra",
+        "Eu não mato pessoas, só mato noxianos"
+      ],
+    },
+    {
+      champion: "Ivern",
+      quote: [
+        "Toda vida é preciosa! É sim! Até a sua"
+      ],
+    },
+    {
+      champion: "Ivern Rei Doce",
+      quote: [
+        "Egalité, Fraternité e doce de leite!"
+      ],
+    },
+    {
+      champion: "Jarvan",
+      quote: [
+        "Hojé é um belo dia para morrer",
       ],
     },
     {
@@ -127,20 +187,29 @@ export const quoteList = [
       champion: "Jhin",
       quote: [
         "Num massacre floresço, como uma flor no amanhecer",
-        "Sua vida não tinha valor antes de mim"
+        "Sua vida não tinha valor antes de mim",
+        "Bem na deixa",
+        "Invejo o silêncio pois devo ser estrondoso"
       ],
     },
     {
       champion: "Jinx",
       quote: [
         "Digam olá para meus amigos de vários tamanhos",
-        "Regras são feitas para serem quebradas. Igual prédios... Ou pessoas!"
+        "Regras são feitas para serem quebradas. Igual prédios... Ou pessoas!",
+        "Sou doida, tenho um atestado"
       ],
     },
     {
       champion: "Kai'Sa",
       quote: [
         "Levante-se, persista e vá pra cima"
+      ],
+    },
+    {
+      champion: "Kalista",
+      quote: [
+        "Morte a todos os traidores"
       ],
     },
     {
@@ -152,13 +221,22 @@ export const quoteList = [
     {
       champion: "Katarina",
       quote: [
-        "A violência resolve tudo"
+        "A violência resolve tudo",
+        "Vamos lá, aproveite a vida... enquanto pode!"
       ],
     },
     {
       champion: "Kayle",
       quote: [
-        "FASCÍNORA!"
+        "FASCÍNORA!",
+        "Os injustos queimaram"
+      ],
+    },
+    {
+      champion: "Kindred",
+      quote: [
+        "O amanhã é uma esperança, nunca uma promessa",
+        "Nunca um sem o outro",
       ],
     },
     {
@@ -169,9 +247,15 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Lulu",
+      quote: [
+        "Tem um gosto meio roxo",
+      ],
+    },
+    {
       champion: "Lux",
       quote: [
-        "Se você pode sorrir pode também iluminar",
+        "Se você quiser sorrir pode também iluminar",
         "Vamos iluminar isso aqui"
       ],
     },
@@ -188,6 +272,14 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Morgana",
+      quote: [
+        "A justiça é uma mentira dos poderosos",
+        "Nem todos os anjos são bons",
+        "A verdadeira graça é bela em sua imperfeição, honesta em suas emoções e livre em sua fragilidade."
+      ],
+    },
+    {
       champion: "Nasus",
       quote: [
         "O ciclo da vida e da morte continua, nós viveremos, eles morrerão"
@@ -201,9 +293,28 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Nami",
+      quote: [
+        "Ewww, bafo de Baleia",
+        "Nas horas vagas eu sou uma encantadora de tubarões"
+      ],
+    },
+    {
+      champion: "Neeoko",
+      quote: [
+        "Neeko não é tomatinho triste, neeko é tomatinho fortona!"
+      ],
+    },
+    {
       champion: "Nunu",
       quote: [
         "Não irrite o Yeti. Não vai gostar de ver ele irritado."
+      ],
+    },
+    {
+      champion: "Poppy",
+      quote: [
+        "Tive uma ideia! 3 rabinhos de cavalo"
       ],
     },
     {
@@ -216,6 +327,12 @@ export const quoteList = [
       champion: "Quinn",
       quote: [
         "Olho neles!"
+      ],
+    },
+    {
+      champion: "Rakan",
+      quote: [
+        "Nada do que eu falo deve ser levado a sério, por isso que é verdade."
       ],
     },
     {
@@ -237,9 +354,41 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Ryzen",
+      quote: [
+        "Sabe oq cairia bem agora? Uma gelada"
+      ],
+    },
+    {
       champion: "Sejuani",
       quote: [
         "Viver com medo não é viver"
+      ],
+    },
+    {
+      champion: "Sett",
+      quote: [
+        "A parada não é quantas vezes te derrubam, é quantas vezes você levanta",
+        "Não tem pra ninguém."
+      ],
+    },
+    {
+      champion: "Shaco",
+      quote: [
+        "Você é a piada aqui",
+        "Que tal um truque de mágica?"
+      ],
+    },
+    {
+      champion: "Shen",
+      quote: [
+        "Você já esta morto, só não percebeu ainda"
+      ],
+    },
+    {
+      champion: "Singed",
+      quote: [
+        "Batido, não misturado"
       ],
     },
     {
@@ -251,14 +400,9 @@ export const quoteList = [
     {
       champion: "Soraka",
       quote: [
-        "Viver com medo não é viver",
-        "Sim, aquilo era uma banana, ninguem espera por uma banana!"
-      ],
-    },
-    {
-      champion: "Sett",
-      quote: [
-        "A parada não é quantas vezes te derrubam, é quantas vezes você levanta"
+        "Enquanto eu viver , ninguém há de sofrer",
+        "Sim, aquilo era uma banana, ninguem espera por uma banana!",
+        "Sim, isto é um chifre nascendo na minha testa"
       ],
     },
     {
@@ -268,9 +412,28 @@ export const quoteList = [
       ],
     },
     {
+      champion: "Talon",
+      quote: [
+        "Lâmina afiada, mente afiada"
+      ],
+    },
+    {
+      champion: "Taric",
+      quote: [
+        "Estamos todos indo em direção ao mesmo fim inevitável. Não precisa ter pressa!",
+        "Vê aquele brilho de esperança? Sou eu!"
+      ],
+    },
+    {
       champion: "Teemo",
       quote: [
         "Tamanho não é documento"
+      ],
+    },
+    {
+      champion: "Trundle",
+      quote: [
+        "Hora de trolar"
       ],
     },
     {
@@ -303,13 +466,22 @@ export const quoteList = [
     {
       champion: "Yasuo",
       quote: [
-        "A morte é como o vento: está sempre ao seu lado"
+        "A morte é como o vento: está sempre ao seu lado",
+        "Seria o unico proposito da folha o de cair?",
+        "Certezas da vida: Honra, morte e ressaca. Ouro garantido"
       ],
     },
     {
       champion: "Yuumi",
       quote: [
         "E por isso que Yuumi rima com destruir"
+      ],
+    },
+    {
+      champion: "Zed",
+      quote: [
+        "A lâmina que não se vê é a mais mortífera",
+        "Ignorância é fatal"
       ],
     },
 
