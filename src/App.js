@@ -5,9 +5,13 @@ import { quoteList } from './quoteList';
 function App() {
    
   const [quote, setQuote] = useState('');
+  const [author, setAuthor] = useState('');
+  
   function getRandomQuote(quoteList){
-    setQuote(quoteList[Math.floor(Math.random() * quoteList.length)]);
-    return quote;
+    let quoteObject = quoteList[Math.floor(Math.random() * quoteList.length)];
+    setQuote(quoteObject.quote[Math.floor(Math.random() * quote.length)]);
+    setAuthor(quoteObject.champion);
+    return;
   }
 
   if(!quote){
@@ -17,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <p className="Quote">
-        {`"${quote.quote}"`} - <span className="Author">{`${quote.author}`}</span>
+        {`"${quote}"`} - <span className="Author">{`${author}`}</span>
       </p>
       <a className="twitter-share-button"
           href={`https://twitter.com/intent/tweet?text="${quote.quote}" - ${quote.author}`}
