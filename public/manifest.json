@@ -2,7 +2,7 @@
   "name": "League Quotes",
   "description": "As melhores citações dos campeões de League of Legends!",
   "version": "1.0",
-  "page_action": {
+  "browser_action": {
       "default_popup": "index.html",
       "default_icon": {
         "16": "images/leaguequotes16.png",
