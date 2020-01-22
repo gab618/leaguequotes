@@ -27,7 +27,7 @@ body, input, button {
   align-items: flex-start;
 }
 .LeftSide {
-  display: inline-block;
+  display: table;
   vertical-align: middle;
   line-height: normal;
   width: 85%;

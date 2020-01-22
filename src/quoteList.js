@@ -308,7 +308,8 @@ export const quoteList = [
     {
       champion: "Neeko",
       quote: [
-        "Neeko não é tomatinho triste, neeko é tomatinho fortona!"
+        "Neeko não é tomatinho triste, neeko é tomatinho fortona!",
+        "Dividir lembranças, cores e sentimentos é mágico! Magia conecta as pessoas!"
       ],
     },
     {
