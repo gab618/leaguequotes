@@ -8,7 +8,10 @@
 html,
 body,
 #root {
+  display: flex;
+  align-items: center;
   height: 100%;
+  width: 280px;
 }
 
 body {
@@ -28,11 +31,12 @@ button {
   justify-content: space-between;
   padding: 5px 10px;
   text-align: center;
-  width: 280px;
+  width: 100%;
 }
 
 .left-side {
   font-family: Archivo, Arial, Helvetica, sans-serif;
+  width: 85%;
 }
 
 .Quote {
@@ -49,6 +53,7 @@ button {
   align-items: center;
   padding: 0 6px;
   margin-left: 8px;
+  width: 15%;
 }
 
 .twitter-share-button {
